@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-reconcile-core",
+  "version": "0.1.0",
+  "description": "Idempotent Kubernetes-style reconcile core with injected client, conflict retry and finalizer handling",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
